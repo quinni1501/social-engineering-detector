@@ -82,4 +82,4 @@ if st.button("KIỂM TRA NGAY", type="primary", use_container_width=True):
         st.error("Vui lòng dán nội dung email!")
 
 st.markdown("---")
-st.caption("Đồ án tốt nghiệp 2025 – Accuracy 97.83% – Dataset CEAS_08")
+#st.caption("Đồ án tốt nghiệp 2025 – Accuracy 97.83% – Dataset CEAS_08")
