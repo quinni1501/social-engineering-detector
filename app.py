@@ -56,8 +56,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<p class="title">PHÁT HIỆN EMAIL LỪA ĐẢO</p>', unsafe_allow_html=True)
-st.markdown('<p class="subtitle">Bernoulli Naïve Bayes + GridSearch | Accuracy 97.83% trên CEAS_08<br>'
-            'Vượt nghiên cứu gốc Sinkron 2023 (97.38%)</p>', unsafe_allow_html=True)
+#st.markdown('<p class="subtitle">Bernoulli Naïve Bayes + GridSearch | Accuracy 97.83% trên CEAS_08<br>'
+            #'Vượt nghiên cứu gốc Sinkron 2023 (97.38%)</p>', unsafe_allow_html=True)
 st.markdown("---")
 
 email_text = st.text_area("Dán toàn bộ nội dung email (subject + body) vào đây:", height=280)
